@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms InnerLink Check InnerLink Test 1`] = `
+<nuxtlink-stub
+  class="cursor-pointer focus:outline-none underline default hover:default focus:shadow-outline"
+  to=""
+/>
+`;

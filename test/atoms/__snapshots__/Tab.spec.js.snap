@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms Tab Check Tab Test 1`] = `
+<div
+  class="relative"
+>
+  <button
+    class="border border-solid border-bdColor px-4 py-3 text-black bg-tabBgColor "
+  />
+   
+  <!---->
+   
+  <!---->
+</div>
+`;

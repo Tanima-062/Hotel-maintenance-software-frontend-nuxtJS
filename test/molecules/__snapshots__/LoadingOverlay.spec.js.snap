@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules LoadingOverlay Check LoadingOverlay Test 1`] = `
+<transition-stub
+  name="loading"
+>
+  <!---->
+</transition-stub>
+`;

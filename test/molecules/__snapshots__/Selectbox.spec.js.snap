@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules Selectbox Check Selectbox Test 1`] = `
+<div
+  class=""
+>
+  <div
+    class="relative inline-block text-left"
+  >
+    <transition-stub
+      name="selectbox"
+    >
+      <div
+        class="origin-bottom-right absolute right-0 mt-2 w-full rounded-md shadow-lg bg-white z-10 top-0  overflow-auto"
+        style="display: none;"
+      >
+        <div
+          class="py-1"
+          role="menu"
+        >
+          <a
+            class="block px-4 py-2 text-sm text-black hover:bg-menuColor cursor-pointer"
+            role="menuitem"
+          >
+            
+            test 1
+          
+          </a>
+          <a
+            class="block px-4 py-2 text-sm text-black hover:bg-menuColor cursor-pointer"
+            role="menuitem"
+          >
+            
+            test 2
+          
+          </a>
+        </div>
+      </div>
+    </transition-stub>
+     
+    <div>
+      <button
+        aria-expanded="true"
+        aria-haspopup="true"
+        class="flex items-center justify-between w-full rounded-md text-selectColor-icon  p-1 border border-solid border-bdColor bg-white"
+        id="options-menu"
+        type="button"
+      >
+        <p
+          class="text-left"
+        >
+          
+          test 1
+        
+        </p>
+         
+        <div
+          class="flex flex-wrap -mr-1 ml-2"
+        >
+          <svg
+            class="w-7 h-7 fill-current text-black"
+            style="width: 24px; height: 24px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7,10L12,15L17,10H7Z"
+            />
+          </svg>
+        </div>
+      </button>
+    </div>
+  </div>
+   
+  <!---->
+</div>
+`;

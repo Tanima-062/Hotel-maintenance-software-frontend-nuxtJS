@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules BtnGroup Check BtnGroup Test 1`] = `
+<div>
+  <button
+    class="border border-solid px-4 py-1.5 rounded-l-lg  bg-btnColor text-white border-btnColor"
+    type="button"
+  >
+    
+    hoge
+  
+  </button>
+  <button
+    class="border border-solid px-4 py-1.5  border-l-0 bg-white text-black-light border-btnColor-border"
+    type="button"
+  >
+    
+    hoge1
+  
+  </button>
+  <button
+    class="border border-solid px-4 py-1.5 rounded-r-lg border-l-0 bg-white text-black-light border-btnColor-border"
+    type="button"
+  >
+    
+    hoge2
+  
+  </button>
+</div>
+`;

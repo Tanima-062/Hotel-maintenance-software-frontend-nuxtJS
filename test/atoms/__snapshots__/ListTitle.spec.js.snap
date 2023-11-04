@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms ListTitle Check ListTitle Test 1`] = `
+<div
+  class="flex items-center justify-between bg-menuColor w-full p-3"
+/>
+`;

@@ -1,0 +1,40 @@
+export default {
+  label: {
+    cancelPolicyName: 'キャンセルポリシー名',
+    deposit: '予約金・デポジット',
+    refund: '返金',
+    cancelToday: '当日キャンセル',
+    nowShow: 'ノーショー（無断不泊）',
+    condition: '返金追加条件',
+    refundDesc:
+      '※ 返金不可設定をチェックすると下記の返金追加条件は設定できません。',
+    noRefund: '返金不可',
+    stayDate: '宿泊日の',
+    dateFrom: '日前から',
+    dateUntil: '日前まで',
+    alert: '入力項目に誤りがあります。',
+    duplicate: '期間に重複があります。',
+    percent: 'パーセンテージ',
+  },
+  policyList: {
+    policyName: 'キャンセルポリシー名',
+    policyDefault: 'デフォルト設定',
+    addNew: '新規追加',
+    policyOperation: '編集・削除',
+    title: 'キャンセルポリシー一覧',
+    goBackList: '一覧に戻る',
+    default: '基本キャンセルポリシー（デフォルト）',
+    selectedDefault: '選択中',
+    nonSelectedDefault: '選択する',
+    planListName: '設定されているプラン名リスト',
+  },
+  button: {
+    addCondition: '条件追加',
+    saveCancelPolicy: '登録する',
+  },
+  alert: {
+    successContent: 'キャンセルポリシーを登録しました',
+    successDeleteContent: 'キャンセルポリシーを削除しました',
+  },
+  loading: 'キャンセルポリシーを読み込み中',
+}

@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules ToggleBtn Check ToggleBtn False Test 1`] = `
+<label
+  class="h-8 w-min flex items-center px-1 rounded-full overflow-hidden cursor-pointer bg-btnColor-border transition-bg"
+>
+  <!---->
+   
+  <div
+    class="w-5 h-5 flex justify-center items-center rounded-full shadow-lg bg-white"
+  >
+    <div
+      aria-hidden="true"
+      class=""
+    >
+      <svg
+        class="w-7 h-7 fill-current text-white"
+        style="width: 24px; height: 24px;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+        />
+      </svg>
+    </div>
+  </div>
+   
+  <span
+    class="ml-2 mr-4 text-white overflow-hidden  whitespace-no-wrap"
+  >
+    test 2
+  </span>
+</label>
+`;
+
+exports[`Molecules ToggleBtn Check ToggleBtn True Test 1`] = `
+<label
+  class="h-8 w-min flex items-center px-1 rounded-full overflow-hidden cursor-pointer bg-menuColor-active transition-bg"
+>
+  <span
+    class="ml-4 mr-2 text-white overflow-hidden whitespace-no-wrap"
+  >
+    test 1
+  </span>
+   
+  <div
+    class="w-5 h-5 flex justify-center items-center rounded-full shadow-lg bg-white"
+  >
+    <div
+      aria-hidden="true"
+      class=""
+    >
+      <svg
+        class="w-7 h-7 fill-current text-white"
+        style="width: 24px; height: 24px;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+        />
+      </svg>
+    </div>
+  </div>
+   
+  <!---->
+</label>
+`;

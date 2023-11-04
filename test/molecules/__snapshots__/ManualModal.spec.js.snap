@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules ManualModal Check ManualModal Test 1`] = `
+<transition-stub
+  name="fade-modal"
+>
+  <div
+    class="fixed z-40"
+  >
+    <div
+      class="opacity-25 fixed inset-0 z-10 bg-black"
+    />
+     
+    <div
+      class="inset-0 fixed overflow-auto h-screen py-18 top-0 left-0 z-40 flex"
+      id="toTopId"
+    >
+      <div
+        class="relative manual-w m-auto"
+      >
+        <div
+          class="border-0 p-5 rounded-lg shadow-lg relative flex flex-col z-20 w-full bg-white"
+        >
+          <div
+            class="flex items-start justify-between mb-2 rounded-t"
+          >
+            <h3
+              class="text-base font-bold text-black-dark whitespace-no-wrap"
+            >
+              
+              test
+            
+            </h3>
+             
+            <button
+              class="flex h-fit-content items-center justify-center text-black-dark h-6 w-6 text-xl block btn rounded-md opacity-85"
+              type="button"
+            >
+              <svg
+                class="w-7 h-7 fill-current text-black-dark hover:text-black-dark"
+                style="width: 24px; height: 24px;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                />
+              </svg>
+            </button>
+          </div>
+           
+          <div>
+            <div>
+              <img
+                src="/images/hotel-guide01-1.jpg"
+              />
+               
+              <div
+                class="w-full p-2 flex justify-center flex-col"
+              >
+                <img
+                  class="w-6 m-auto"
+                  src="/images/guide-arrow.svg"
+                />
+                 
+                <img
+                  class="w-6 m-auto"
+                  src="/images/guide-arrow.svg"
+                />
+              </div>
+               
+              <!---->
+            </div>
+            <div>
+              <img
+                src="/images/hotel-guide01-2.jpg"
+              />
+               
+              <!---->
+               
+              <!---->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</transition-stub>
+`;

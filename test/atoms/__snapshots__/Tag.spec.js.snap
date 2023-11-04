@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms Tag Check Tag Test 1`] = `
+<div
+  class="border border-solid rounded-md select-none border-tagColor text-tagColor py-0.5 text-sm font-hairline px-2 "
+/>
+`;

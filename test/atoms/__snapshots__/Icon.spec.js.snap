@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms Icon Check Icon Test 1`] = `
+<div
+  class="rounded-full"
+>
+  <svg
+    class="w-7 h-7 fill-current text-black-dark"
+    style="width: 24px; height: 24px;"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="mdiClose"
+    />
+  </svg>
+</div>
+`;

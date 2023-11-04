@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules RadioGroup Check RadioGroup Test 1`] = `
+<div>
+  <label
+    class="inline-flex items-center"
+  >
+    <input
+      class="form-radio h-4 w-4 mr-1"
+      name=""
+      type="radio"
+      value="test 1"
+    />
+     
+    <span
+      class="default"
+    >
+      
+    </span>
+  </label>
+  <label
+    class="inline-flex items-center"
+  >
+    <input
+      class="form-radio h-4 w-4 mr-1"
+      name=""
+      type="radio"
+      value="test 2"
+    />
+     
+    <span
+      class="default"
+    >
+      
+    </span>
+  </label>
+</div>
+`;

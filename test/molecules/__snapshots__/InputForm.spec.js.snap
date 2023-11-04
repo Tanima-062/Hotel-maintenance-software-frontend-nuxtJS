@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules InputForm Check InputForm Test 1`] = `
+<div>
+  <label
+    class="text-black-dark mb-2"
+  >
+    text
+  </label>
+   
+  <div
+    class="relative"
+  >
+    <input
+      class="rounded-md border border-solid text-black-dark placeholder-black-light px-3 focus:shadow-outline focus:outline-none  border-bdColor py-2 w-full"
+      maxlength="1000"
+      placeholder=""
+      type="text"
+    />
+     
+    <!---->
+  </div>
+   
+  <!---->
+</div>
+`;

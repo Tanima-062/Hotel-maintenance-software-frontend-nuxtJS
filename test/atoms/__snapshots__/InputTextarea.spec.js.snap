@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms InputTextarea Check InputTextarea Test 1`] = `
+<div
+  class="relative"
+>
+  <textarea
+    class="w-full rounded-md border border-solid border-bdColor text-black-dark placeholder-black-light py-2 focus:shadow-outline focus:outline-none px-3"
+    maxlength="1000"
+    placeholder=""
+    rows="2"
+  />
+   
+  <!---->
+</div>
+`;

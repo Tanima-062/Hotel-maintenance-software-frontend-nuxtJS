@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms IconBtn Check IconBtn Test 1`] = `
+<button
+  class="flex h-fit-content items-center justify-center btn rounded-md opacity-85"
+  type="button"
+>
+  <svg
+    class="w-7 h-7 fill-current text-white hover:text-white"
+    style="width: 24px; height: 24px;"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d=""
+    />
+  </svg>
+</button>
+`;

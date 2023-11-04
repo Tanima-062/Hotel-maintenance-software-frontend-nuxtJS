@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules Checkbox Check Checkbox Test 1`] = `
+<div
+  class="relative"
+>
+  <div
+    class="tooltip-position shadow break-all bg-bgColor-light-gray w-70 rounded"
+    style="display: none;"
+  >
+    
+    
+  
+  </div>
+   
+  <label
+    class="flex items-center focus:outline-none text-black"
+    tabindex="-1"
+  >
+    <input
+      class="form-checkbox focus:shadow-outline focus:outline-none"
+      tabindex="0"
+      type="checkbox"
+    />
+     
+    <span
+      class="ml-2 text-black"
+    >
+      
+    </span>
+  </label>
+</div>
+`;

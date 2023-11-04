@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms InputText Check InputText Test 1`] = `
+<input
+  class="rounded-md border border-solid text-black-dark placeholder-black-light px-3 focus:shadow-outline focus:outline-none bg-white border-bdColor py-2"
+  placeholder=""
+  type="text"
+/>
+`;

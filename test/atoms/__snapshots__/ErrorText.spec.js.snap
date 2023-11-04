@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms ErrorText Check ErrorText Test 1`] = `
+<transition-stub
+  name="fade"
+>
+  <p
+    class="text-alert "
+  >
+    
+    it has some error
+  
+  </p>
+</transition-stub>
+`;

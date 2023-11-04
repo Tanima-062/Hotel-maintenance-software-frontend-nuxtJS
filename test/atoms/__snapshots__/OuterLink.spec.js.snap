@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms OuterLink Check OuterLink Test 1`] = `
+<a
+  class="text-black-light cursor-pointer underline focus:shadow-outline focus:outline-none"
+  href=""
+  rel="noopener"
+  target=""
+/>
+`;

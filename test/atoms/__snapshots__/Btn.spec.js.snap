@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms Btn Check Btn Blue Test 1`] = `
+<button
+  class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out focus:shadow-outline bg-btnColor text-white hover:bg-btnColor-default__hover py-3"
+  tabindex="0"
+  type="button"
+/>
+`;
+
+exports[`Atoms Btn Check Btn Gray Test 1`] = `
+<button
+  class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out focus:shadow-outline text-white bg-btnColor-cancel hover:bg-btnColor-cancel__hover py-3"
+  tabindex="0"
+  type="button"
+/>
+`;
+
+exports[`Atoms Btn Check Btn Green Test 1`] = `
+<button
+  class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out focus:shadow-outline text-white bg-btnColor-green hover:bg-opacity-90 py-3"
+  tabindex="0"
+  type="button"
+/>
+`;
+
+exports[`Atoms Btn Check Btn Red Test 1`] = `
+<button
+  class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out focus:shadow-outline text-white bg-btnColor-red hover:bg-opacity-90 py-3"
+  tabindex="0"
+  type="button"
+/>
+`;
+
+exports[`Atoms Btn Check Btn White Test 1`] = `
+<button
+  class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out focus:shadow-outline text-black  bg-white border border-btnColor-cancel hover:bg-opacity-80 py-3"
+  tabindex="0"
+  type="button"
+/>
+`;

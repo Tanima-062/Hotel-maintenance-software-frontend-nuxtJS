@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules Menu Check Menu Test 1`] = `
+<div
+  class="w-full shadow h-11 bg-menuColor flex items-center justify-center"
+>
+  <transition-group-stub
+    class="w-full max-w-1200 flex items-center z-30"
+    name="menu-drop"
+    tag="div"
+  >
+    <div
+      class="relative"
+      tag="div"
+    >
+      <button
+        class="flex justify-center items-center leading-5 whitespace-no-wrap py-3 btn text-black  w-40"
+        color="text-menu"
+        type="button"
+        value="booking"
+      >
+        
+        booking
+      
+      </button>
+       
+      <!---->
+    </div>
+  </transition-group-stub>
+</div>
+`;

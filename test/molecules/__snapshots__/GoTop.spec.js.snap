@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules GoTop Check GoTop Test 1`] = `
+<div
+  class="opacity-80 w-24 rounded-bl-lg rounded-br-md px-3 py-1 bg-black-light cursor-pointer"
+>
+  <div
+    class="flex flex-row items-center justify-center"
+  >
+    <div
+      class="-ml-2 mr-1"
+    >
+      <svg
+        class="w-7 h-7 fill-current text-white"
+        style="width: 24px; height: 24px;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z"
+        />
+      </svg>
+    </div>
+     
+    <p
+      class="text-xs text-white"
+    >
+      To top
+    </p>
+  </div>
+</div>
+`;

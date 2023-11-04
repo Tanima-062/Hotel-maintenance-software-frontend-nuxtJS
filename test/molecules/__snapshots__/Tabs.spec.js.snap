@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules Tabs Check Tabs Test 1`] = `
+<div
+  class="flex items-baseline justify-start"
+>
+   
+  <div
+    class="relative"
+  >
+    <button
+      class="border border-solid border-bdColor px-4 py-3 text-black bg-tabBgColor "
+    >
+      
+    test 1
+  
+    </button>
+     
+    <!---->
+     
+    <!---->
+  </div>
+  <div
+    class="relative -ml-px"
+  >
+    <button
+      class="border border-solid border-bdColor px-4 py-3 text-black bg-tabBgColor  text-bdColor cursor-not-allowed"
+    >
+      
+    test 2
+  
+    </button>
+     
+    <!---->
+     
+    <!---->
+  </div>
+</div>
+`;

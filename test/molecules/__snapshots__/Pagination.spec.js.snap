@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules Pagination Check Pagination Test 1`] = `
+<div
+  class="bg-white flex items-center justify-between"
+>
+  <!---->
+   
+  <nav
+    aria-label="Pagination"
+    class="flex items-center justify-center"
+  >
+    <a
+      class="flex items-center rounded-md mr-3 bg-pagingColor-disable cursor-not-allowed"
+    >
+      <!---->
+    </a>
+     
+    <div>
+      <a
+        class="flex items-center justify-center rounded px-2 py-1 w-8 hover:bg-pagingColor-active hover:text-white mr-3 cursor-pointer text-white bg-pagingColor-active"
+      >
+        
+        1
+      
+      </a>
+    </div>
+    <div>
+      <a
+        class="flex items-center justify-center rounded px-2 py-1 w-8 hover:bg-pagingColor-active hover:text-white mr-3 cursor-pointer text-pagingColor-text bg-white"
+      >
+        
+        2
+      
+      </a>
+    </div>
+    <div>
+      <a
+        class="flex items-center justify-center rounded px-2 py-1 w-8 hover:bg-pagingColor-active hover:text-white mr-3 cursor-pointer text-pagingColor-text bg-white"
+      >
+        
+        3
+      
+      </a>
+    </div>
+    <div>
+      <a
+        class="flex items-center justify-center rounded px-2 py-1 w-8 text-pagingColor-text cursor-default"
+      >
+        
+        ...
+      
+      </a>
+    </div>
+    <div>
+      <!---->
+    </div>
+    <div>
+      <!---->
+    </div>
+    <div>
+      <!---->
+    </div>
+    <div>
+      <!---->
+    </div>
+    <div>
+      <!---->
+    </div>
+    <div>
+      <a
+        class="flex items-center justify-center rounded px-2 py-1 w-8 hover:bg-pagingColor-active hover:text-white mr-3 cursor-pointer text-pagingColor-text bg-white"
+      >
+        
+        10
+      
+      </a>
+    </div>
+     
+    <a
+      class="flex items-center rounded-md bg-pagingColor-icon cursor-pointer"
+    >
+      <!---->
+    </a>
+  </nav>
+   
+  <div>
+    <p
+      class="text-sm text-pagingColor-text"
+    >
+      
+      1-1 / 10
+    
+    </p>
+  </div>
+</div>
+`;

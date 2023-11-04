@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules Picture Check Picture Test 1`] = `
+<transition-group-stub
+  class="relative bg-black w-60 rounded-lg"
+  name="picture"
+  tag="div"
+>
+  <div
+    class=" rounded-lg"
+    draggable="true"
+  >
+    <img
+      class="w-60 h-40 rounded-lg"
+      draggable="false"
+      src=""
+    />
+  </div>
+   
+  <!---->
+   
+  <!---->
+   
+  <!---->
+   
+  <!---->
+</transition-group-stub>
+`;

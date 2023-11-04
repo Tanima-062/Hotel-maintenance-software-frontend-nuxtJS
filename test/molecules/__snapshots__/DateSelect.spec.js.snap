@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules DateSelect Check DateSelect Test 1`] = `
+<div
+  class="flex justify-between items-center mb-2"
+>
+  <div
+    class="flex"
+  >
+    <button
+      class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out items-center select-none flex flex-row mr-4 cursor-not-allowed  text-btnColor-disabled py-3"
+      tabindex="-1"
+      type="button"
+    >
+      <div
+        class=""
+      >
+        <svg
+          class="w-7 h-7 fill-current text-btnColor-disabled"
+          style="width: 24px; height: 24px;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18.41,7.41L17,6L11,12L17,18L18.41,16.59L13.83,12L18.41,7.41M12.41,7.41L11,6L5,12L11,18L12.41,16.59L7.83,12L12.41,7.41Z"
+          />
+        </svg>
+      </div>
+      
+      calendar.pagination.twoWeekLeft
+    
+    </button>
+     
+    <button
+      class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out items-center select-none flex flex-row mr-4 cursor-not-allowed  text-btnColor-disabled py-3"
+      tabindex="-1"
+      type="button"
+    >
+      <div
+        class=""
+      >
+        <svg
+          class="w-7 h-7 fill-current text-btnColor-disabled"
+          style="width: 24px; height: 24px;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M15.41,16.58L10.83,12L15.41,7.41L14,6L8,12L14,18L15.41,16.58Z"
+          />
+        </svg>
+      </div>
+      
+      calendar.pagination.leftButton
+    
+    </button>
+  </div>
+   
+  <div
+    class="flex items-center"
+  >
+    <button
+      class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out w-18 h-9 mr-2 border border-solid focus:shadow-outline border-btnColor-outline text-btnColor-outline hover:border-btnColor-outline__hover hover:text-btnColor-outline__hover py-3"
+      tabindex="0"
+      type="button"
+    >
+      
+      calendar.searchDate.todayButton
+    
+    </button>
+     
+    <div
+      class="mx-datepicker"
+    >
+      <div
+        class="mx-input-wrapper"
+      >
+        <input
+          autocomplete="off"
+          class="mx-input"
+          name="date"
+          placeholder="calendar.searchDate.selectDate"
+          type="text"
+        />
+        <i
+          class="mx-icon-clear"
+        >
+          <svg
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M810.005333 274.005333l-237.994667 237.994667 237.994667 237.994667-60.010667 60.010667-237.994667-237.994667-237.994667 237.994667-60.010667-60.010667 237.994667-237.994667-237.994667-237.994667 60.010667-60.010667 237.994667 237.994667 237.994667-237.994667z"
+            />
+          </svg>
+        </i>
+        <i
+          class="mx-icon-calendar"
+        >
+          <svg
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M940.218182 107.054545h-209.454546V46.545455h-65.163636v60.50909H363.054545V46.545455H297.890909v60.50909H83.781818c-18.618182 0-32.581818 13.963636-32.581818 32.581819v805.236363c0 18.618182 13.963636 32.581818 32.581818 32.581818h861.090909c18.618182 0 32.581818-13.963636 32.581818-32.581818V139.636364c-4.654545-18.618182-18.618182-32.581818-37.236363-32.581819zM297.890909 172.218182V232.727273h65.163636V172.218182h307.2V232.727273h65.163637V172.218182h176.872727v204.8H116.363636V172.218182h181.527273zM116.363636 912.290909V442.181818h795.927273v470.109091H116.363636z"
+            />
+          </svg>
+        </i>
+      </div>
+    </div>
+     
+    <button
+      class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out w-18 h-9 ml-2 focus:shadow-outline bg-btnColor text-white hover:bg-btnColor-default__hover py-3"
+      tabindex="0"
+      type="button"
+    >
+      
+      calendar.searchDate.serachButton
+    
+    </button>
+  </div>
+   
+  <div
+    class="flex"
+  >
+    <button
+      class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out items-center select-none flex flex-row mr-4 text-btnColor hover:text-btnColor__hover py-3"
+      tabindex="0"
+      type="button"
+    >
+      
+      calendar.pagination.rightButton
+      
+      <div
+        class=""
+      >
+        <svg
+          class="w-7 h-7 fill-current text-btnColor"
+          style="width: 24px; height: 24px;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"
+          />
+        </svg>
+      </div>
+    </button>
+     
+    <button
+      class="flex justify-center items-center leading-5 outline-none focus:outline-none rounded-md transition-all duration-300 ease-in-out items-center select-none flex flex-row mr-4 text-btnColor hover:text-btnColor__hover py-3"
+      tabindex="0"
+      type="button"
+    >
+      
+      calendar.pagination.twoWeekRight
+      
+      <div
+        class=""
+      >
+        <svg
+          class="w-7 h-7 fill-current text-btnColor"
+          style="width: 24px; height: 24px;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M5.59,7.41L7,6L13,12L7,18L5.59,16.59L10.17,12L5.59,7.41M11.59,7.41L13,6L19,12L13,18L11.59,16.59L16.17,12L11.59,7.41Z"
+          />
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+`;
